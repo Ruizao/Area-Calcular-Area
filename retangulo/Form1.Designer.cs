@@ -44,7 +44,7 @@
             // 
             this.label1.Font = new System.Drawing.Font("Comic Sans MS", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.DarkRed;
-            this.label1.Location = new System.Drawing.Point(117, 50);
+            this.label1.Location = new System.Drawing.Point(122, 50);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(231, 43);
             this.label1.TabIndex = 0;
